@@ -157,7 +157,7 @@
       "url": "_framework\/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-OZEJpx93sAO78rEQTa2bPqIHQGooS7IiPFMJTdTkWFw=",
+      "hash": "sha256-\/TDWRvc6E2lVToXbxTqla3pr2BXR9HH7h4bypWO0zeE=",
       "url": "mauricio-saavedra.styles.css"
     },
     {
@@ -289,5 +289,5 @@
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "WxecFbsk"
+  "version": "hwGlgMqx"
 };

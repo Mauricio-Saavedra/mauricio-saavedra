@@ -585,7 +585,7 @@ h5[b-g72vy6g994] {
 @media (max-width: 641px) {
 
     .contenedorPortafolio[b-gk6a426xuo] {
-        margin-left: 0;
+        margin-left: -1.5vh;
         margin-top: 1vh;
         position: relative;
     }
@@ -596,9 +596,9 @@ h5[b-g72vy6g994] {
         grid-gap: 0vh;
     }
 
-    .Objeto[b-gk6a426xuo] {
+    .ObjetoPortafolio[b-gk6a426xuo] {
         height: auto;
-        width: 90%;
+        width: 85%;
         background-color: rgb(0, 179, 255);
         border-bottom-left-radius: 4vh;
         border-top-right-radius: 4vh;
@@ -608,11 +608,11 @@ h5[b-g72vy6g994] {
         aspect-ratio: 3/2;
     }
 
-        .Objeto a[b-gk6a426xuo] {
+        .ObjetoPortafolio a[b-gk6a426xuo] {
             text-decoration: none;
         }
 
-        .Objeto:hover[b-gk6a426xuo] {
+        .ObjetoPortafolio:hover[b-gk6a426xuo] {
             background-color: #946fff;
         }
 
@@ -725,8 +725,8 @@ body[b-7zcld46m73] {
 
         .main-Contacto .contenedor-links-img[b-7zcld46m73] {
             position: relative;
-            top: 4vw;
-            left: 0vw;
+            top: 3vw;
+            left: -.5vh;
             bottom: 0vh;
             width: 100%;
             height: auto;
