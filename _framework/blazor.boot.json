@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "mauricio-saavedra",
   "resources": {
-    "hash": "sha256-eOEPUAvfkpcXFaCDp2tLp6nmpWRAHyQzLgJd78UCzug=",
+    "hash": "sha256-E61rgN7IohHbDhGNSAGc9GJ4gQqMhL+q+RqWMq8GENo=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.8cy0vecii2.js": "sha256-K56eynq1zCEPrRYXSCo8FtLw3bp1q+VEI2IsXAmYDYY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "mauricio-saavedra.wasm": "sha256-eaRDtaqa4u2RkkL9HtL2xD1Far2Pq49SwnPhPGk+LTA=",
+      "mauricio-saavedra.wasm": "sha256-0UDLSRlBdgIfUG20MWryAnMmjGKy/ClO4zeG1plL4UE=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-zyFnJm5mkAfo6tWGDl0OHpVHd/egqoXR5mqF3SqfEgM=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-DUvpzktySFpUWNVEp87C8FbAJYUD6qHu7a6hL+tBSl4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-kZSJV9ON9UL924dyAnAeoFHZXExv5A/OCxTHlMc+3fQ=",
